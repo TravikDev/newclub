@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDay": "12",
+        "eventMonth": "сент" 
+    },
+    {
+        "id": 2,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDay": "20",
+        "eventMonth": "окт" 
+    },
+    {
+        "id": 3,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDay": "02",
+        "eventMonth": "нояб" 
+    },
+    {
+        "id": 4,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDay": "12",
+        "eventMonth": "нояб" 
+    },
+    {
+        "id": 5,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDay": "08",
+        "eventMonth": "дек" 
+    }
+]

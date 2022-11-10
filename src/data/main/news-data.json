@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor amet la pentru de colum This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDate": "12/22/2022",
+        "postDate": "10/22/2022",
+        "srcImg": "https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" 
+    },
+    {
+        "id": 2,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor amet la pentru de colum This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDate": "12/22/2022",
+        "postDate": "10/22/2022",
+        "srcImg": "https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" 
+    },
+    {
+        "id": 3,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor amet la pentru de colum This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDate": "12/22/2022",
+        "postDate": "10/22/2022",
+        "srcImg": "https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" 
+    },
+    {
+        "id": 4,
+        "title": "Lorem ipsum",
+        "short": "Lorem ipsum es dolor amet la pentru de colum This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "description": "long description",
+        "likesCount": 5,
+        "eventDate": "12/22/2022",
+        "postDate": "10/22/2022",
+        "srcImg": "https://mdbootstrap.com/wp-content/uploads/2020/06/vertical.jpg" 
+    }
+]
